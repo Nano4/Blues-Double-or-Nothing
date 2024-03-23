@@ -2,14 +2,14 @@
 Read me first!
 ---------------------------------------------------------------------------]]
 --[[
-	Its important to test your slot machines to make sure they fit with your economy.
-	Settings the chance to high can and will ruin it if you dont have it configured properly.
+	It's important to test your slot machines to make sure they fit with your economy.
+	Setting the chance too high can and will ruin it if you don't have it configured properly.
 
-	To save slots you simple type !saveslots, to remove them just remove them from the map and do !saveslots again.
+	To save Double or Nothing you simple type !savedon, to remove them just remove them from the map and do !savedon again.
 
 	If you have any questions please open a support ticket and i'll answer as soona I see it
 
-	Thanks for purchasing, enjoy your slots :)
+	Thanks for purchasing, enjoy your Double or Nothing :)
 
 	The WORKSHOP link is here : http://steamcommunity.com/sharedfiles/filedetails/?id=1174019751
 
